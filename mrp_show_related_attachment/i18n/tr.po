@@ -1,0 +1,55 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* mrp_show_related_attachment
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 8.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-09-13 19:41+0000\n"
+"PO-Revision-Date: 2017-09-13 19:41+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: mrp_show_related_attachment
+#: view:mrp.production:mrp_show_related_attachment.mrp_production_form_view_inh_relatedattachment
+#: view:mrp.production.workcenter.line:mrp_show_related_attachment.workcenter_line_form_view_inh_relatedattachment
+msgid "Extra Information"
+msgstr "Extra Bilgi"
+
+#. module: mrp_show_related_attachment
+#: view:mrp.production:mrp_show_related_attachment.mrp_production_form_view_inh_inh_relatedattachment
+msgid "Information"
+msgstr "Bilgi"
+
+#. module: mrp_show_related_attachment
+#: model:ir.model,name:mrp_show_related_attachment.model_mrp_production
+msgid "Manufacturing Order"
+msgstr "Üretim Emri"
+
+#. module: mrp_show_related_attachment
+#: view:mrp.production:mrp_show_related_attachment.mrp_production_form_view_inh_relatedattachment
+#: field:mrp.production,product_attachments:0
+msgid "Product attachments"
+msgstr "Ürün Dosyaları"
+
+#. module: mrp_show_related_attachment
+#: model:ir.model,name:mrp_show_related_attachment.model_mrp_production_workcenter_line
+msgid "Work Order"
+msgstr "İş Emri"
+
+#. module: mrp_show_related_attachment
+#: view:mrp.production:mrp_show_related_attachment.mrp_production_form_view_inh_inh_relatedattachment
+#: view:mrp.production.workcenter.line:mrp_show_related_attachment.workcenter_line_form_view_inh_relatedattachment
+msgid "Work center attachments"
+msgstr "İş merkezi dosyaları"
+
+#. module: mrp_show_related_attachment
+#: field:mrp.production.workcenter.line,workcenter_attachments:0
+msgid "Workcenter attachments"
+msgstr "İşmerkezi dosyaları"
+
