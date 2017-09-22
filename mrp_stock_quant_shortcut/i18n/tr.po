@@ -23,5 +23,5 @@ msgstr "Üretim Emri"
 #. module: mrp_stock_quant_shortcut
 #: view:mrp.production:mrp_stock_quant_shortcut.mrp_production_quant_shortcut_form_view
 msgid "Quants"
-msgstr "Quants"
+msgstr "Quantlar"
 
